@@ -6,7 +6,7 @@ const port = 5000
 
 const courses = require('./data/catagories.json')
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('mY PAGE ')
 })
 
 
