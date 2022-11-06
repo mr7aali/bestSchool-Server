@@ -3,42 +3,42 @@
     "id": "01",
     "name": "JavaScript",
     "price": 230,
-    "photo": "https://i.ibb.co/4j5ySbV/java.jpg",
+    "photo": "https://i.ibb.co/gM5LLHT/java.jpg",
     "details": "JavaScript is a scripting language used mostly in web programming. It is based on an object-oriented model and available in all modern browsers so it's a cross-platform language too. Mostly JavaScript is realized as part of HTML, where it can change itself and other elements of HTML scripts.Document Oriented Model is a versatile standard of interacting with web documents (like HTML) but inside in the browsers. Browser Oriented model is non-standardized and stands for interaction with browsers, for example its windows."
   },
   {
     "id": "02",
     "name": "React",
     "price": 260,
-    "photo": "https://i.ibb.co/f0czkW8/react.png",
+    "photo": "https://i.ibb.co/0Gm8CPZ/react.png",
     "details":"This guide is for people who are starting with React. I have carefully curated the best videos and articles in each section to make it easier for learning.Note: I’m not associated with any of the websites mentioned below. It’s purely my view.React Router helps you create routes to your single page applications. It’s very powerful and easy to use with your React application."
   },
   {
     "id": "03",
     "name": "Structured Programming",
     "price": 100,
-    "photo": "https://i.ibb.co/yRhyJnC/stracture-Programming.png",
+    "photo": "https://i.ibb.co/9rdRbMm/stracture-Programming.png",
     "details":"Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines.Structured Programming Approach, as the word suggests, can be defined as a programming approach in which the program is made as a single structure. It means that the code will execute the instruction by instruction one after the other. It doesn’t support the possibility of jumping from one instruction to some other with the help of any statement like GOTO, etc. Therefore, the instructions in this approach will be executed in a serial and structured manner."
   },
   {
     "id": "04",
     "name": "Java",
     "price": 300,
-    "photo": "https://i.ibb.co/8d6Pxtq/javaP.jpg",
+    "photo": "https://i.ibb.co/F8Bpg7h/javaP.jpg",
     "details":"Start here if you are new to programming or new to Android development. These courses show you how to build Android apps using best practices recommended by Google. No programming experience needed.This certification is being updated. New registrations for the exam are currently closed, until the update is complete.Master Android development with Kotlin in this paid Udacity Nanodegree, offering hands-on projects, mentor support, and career services."
   },
   {
     "id": "05",
     "name": "Web Devolomnet Full Course",
     "price": 500,
-    "photo": "https://i.ibb.co/vwcHDXc/WEb-devoloper.jpg",
+    "photo": "https://i.ibb.co/p0kb9h7/WEb-devoloper.jpg",
     "details":"Share your Dart code between mobile and web applications; web is just another device target for your app.the site is secure by utilizing Secure Sockets Layer (SSL) Technology. SSL technology enables the encryption of sensitive information during online transactions. We use the highest assuranczzzzze SSL/TLS certificate, which ensures that no unauthorized person can get to your sensitive paymentz data over the web."
   },
   {
     "id": "06",
     "name": "Object Oriented Programming",
     "price": 300,
-    "photo": "https://i.ibb.co/ckYpdmS/Opp.png",
+    "photo": "https://i.ibb.co/HgHFJ1H/Opp.png",
     "details":"Object-oriented programming is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields, and code, in the form of procedures. A common feature of objects is that procedures are attached to them and can access and modify the object's data fields Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions."
     
   },
@@ -46,14 +46,14 @@
     "id": "07",
     "name": "Search Engine Optimization",
     "price": 350,
-    "photo": "https://i.ibb.co/G9V5p9L/SEO.png",
+    "photo": "https://i.ibb.co/s6gngfK/SEO.png",
     "details":"Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines.[1] SEO targets unpaid traffic (known as natural or organic results) rather than direct traffic or paid traffic. Unpaid traffic may originate from different kinds of searches, including image search, video search, academic search,[2] news search, and industry-specific vertical search engines."
   },
   {
     "id": "08",
     "name": "Laravel Framework Tutorial",
     "price": 400,
-    "photo": "https://i.ibb.co/4fpRxfx/larabel.png",
+    "photo": "https://i.ibb.co/PW2TWzL/larabel.png",
     "details":"Integrated app platform which builds, deploys, runs, and automatically scales your apps. Build & deploy pipeline that you can customize to fit your workflow. Incremental autoscaling. From local dev to prod. HA-mode available. 100% transparent pricing. Dev-first app platform. This Laravel tutorial series describes the various features of Laravel, and it guides you to learn the Laravel PHP framework to make web development easier. Learn to build applications using laravel · To install Laravel using Windows and MAC · You will learn how use Laravel ·"
   }
 ]
